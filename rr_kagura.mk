@@ -12,4 +12,21 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-PRODUCT_MAKEFILES := $(LOCAL_DIR)/rr_kagura.mk
+# Bootanimation
+TARGET_BOOTANIMATION_SIZE := 1080p
+
+# Get the prebuilt list of APNs
+$(call inherit-product, vendor/rr/config/common_full_phone.mk)
+
+# Inherit device parts
+$(call inherit-product, device/sony/kagura/aosp_f8331.mk)
+
+# Override Product Name
+PRODUCT_NAME := rr_kagura
+PRODUCT_MODEL := Xperia XZ
+
+# Assert
+TARGET_OTA_ASSERT_DEVICE := kagura
+
+# Inherit rom parts
+$(call inherit-product, device/sony/common/omni.mk)

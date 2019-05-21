@@ -1,0 +1,158 @@
+[
+  {
+    "remote":       "github",
+    "repository":   "omnirom/android_device_sony_tone-common",
+    "target_path":  "device/sony/tone-common",
+    "branch":     "android-9.0"
+  },
+  {
+    "remote":       "github",
+    "repository":   "mracar07/android_device_sony_common",
+    "target_path":  "device/sony/common",
+    "branch":     "pie"
+  },
+  {
+    "remote":       "github",
+    "repository":   "omnirom/android_device_sony_common-headers",
+    "target_path":  "device/sony/common-headers",
+    "branch":     "android-9.0"
+  },
+  {
+    "remote":       "github",
+    "repository":   "omnirom/android_device_sony_sepolicy",
+    "target_path":  "device/sony/sepolicy",
+    "branch":     "android-9.0"
+  },
+  {
+    "remote":       "github",
+    "repository":   "omnirom/android_hardware_sony_bluetooth",
+    "target_path":  "hardware/sony/bluetooth",
+    "branch":     "android-9.0"
+  },
+  {
+    "remote":       "github",
+    "repository":   "omnirom/android_hardware_sony_camera",
+    "target_path":  "hardware/sony/camera",
+    "branch":     "android-9.0"
+  },
+  {
+    "remote":       "github",
+    "repository":   "omnirom/android_hardware_sony_cash",
+    "target_path":  "hardware/sony/cash",
+    "branch":     "android-9.0"
+  },
+  {
+    "remote":       "github",
+    "repository":   "omnirom/android_hardware_sony_dataservices",
+    "target_path":  "hardware/sony/dataservices",
+    "branch":     "android-9.0"
+  },
+  {
+    "remote":       "github",
+    "repository":   "omnirom/android_hardware_sony_audio",
+    "target_path":  "hardware/sony/audio",
+    "branch":     "android-9.0"
+  },
+  {
+    "remote":       "github",
+    "repository":   "omnirom/android_hardware_sony_bootctrl",
+    "target_path":  "hardware/sony/bootctrl",
+    "branch":     "android-9.0"
+  },
+  {
+    "remote":       "github",
+    "repository":   "omnirom/android_hardware_sony_display-sde",
+    "target_path":  "hardware/sony/display-sde",
+    "branch":     "android-9.0"
+  },
+  {
+    "remote":       "github",
+    "repository":   "omnirom/android_hardware_sony_gps",
+    "target_path":  "hardware/sony/gps",
+    "branch":     "android-9.0"
+  },
+  {
+    "remote":       "github",
+    "repository":   "omnirom/android_hardware_sony_media",
+    "target_path":  "hardware/sony/media",
+    "branch":     "android-9.0"
+  },
+  {
+    "remote":       "github",
+    "repository":   "omnirom/android_hardware_sony_sdm845_media",
+    "target_path":  "hardware/sony/media/sdm845",
+    "branch":     "android-9.0"
+  },
+  {
+    "remote":       "github",
+    "repository":   "omnirom/android_hardware_sony_fingerprint",
+    "target_path":  "hardware/sony/fingerprint",
+    "branch":     "android-9.0"
+  },
+  {
+    "remote":       "github",
+    "repository":   "omnirom/android_hardware_sony_location",
+    "target_path":  "hardware/sony/location",
+    "branch":     "android-9.0"
+  },
+  {
+    "remote":       "github",
+    "repository":   "omnirom/android_hardware_sony_macaddrsetup",
+    "target_path":  "hardware/sony/macaddrsetup",
+    "branch":     "android-9.0"
+  },
+  {
+    "remote":       "github",
+    "repository":   "omnirom/android_hardware_sony_qcrilam",
+    "target_path":  "hardware/sony/qcrilam",
+    "branch":     "android-9.0"
+  },
+  {
+    "remote":       "github",
+    "repository":   "omnirom/android_hardware_sony_timekeep",
+    "target_path":  "hardware/sony/timekeep",
+    "branch":     "android-9.0"
+  },
+  {
+    "remote":       "github",
+    "repository":   "omnirom/android_hardware_sony_transpower",
+    "target_path":  "hardware/sony/transpower",
+    "branch":     "android-9.0"
+  },
+  {
+    "remote":       "github",
+    "repository":   "omnirom/android_kernel_sony_msm",
+    "target_path":  "kernel/sony/msm",
+    "branch":     "android-9.0"
+  },
+  {
+    "remote":       "github",
+    "repository":   "omnirom/android_kernel_sony_msm-wlan-fw-api",
+    "target_path":  "kernel/sony/msm/drivers/staging/wlan-qc/fw-api",
+    "branch":     "android-9.0"
+  },
+  {
+    "remote":       "github",
+    "repository":   "omnirom/android_kernel_sony_msm-wlan-qca-wifi-host-cmn",
+    "target_path":  "kernel/sony/msm/drivers/staging/wlan-qc/qca-wifi-host-cmn",
+    "branch":     "android-9.0"
+  },
+  {
+    "remote":       "github",
+    "repository":   "omnirom/android_kernel_sony_msm-wlan-qcacld-3.0",
+    "target_path":  "kernel/sony/msm/drivers/staging/wlan-qc/qcacld-3.0",
+    "branch":     "android-9.0"
+  },
+  {
+    "remote":       "github",
+    "repository":   "omnirom/android_kernel_sony_msm-defconfig",
+    "target_path":  "kernel/sony/msm/arch/arm64/configs/sony",
+    "branch":     "android-9.0"
+  },
+  {
+    "remote":       "github",
+    "repository":   "omnirom/android_packages_apps_ExtendedSettings",
+    "target_path":  "packages/apps/ExtendedSettings",
+    "branch":     "android-9.0"
+  }
+]
